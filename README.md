@@ -2,7 +2,7 @@
 
 Una aplicación para practicar conceptos basicos de React y Next.js, con TypeScript y Tailwind CSS.
 
-## �� Funcionalidades
+## Funcionalidades
 
 - ✅ Agregar tareas
 - ✅ Marcar como completadas
@@ -21,7 +21,7 @@ Una aplicación para practicar conceptos basicos de React y Next.js, con TypeScr
 ## 📦 Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/todo-list
+git clone https://github.com/sanntzherrera1/todo-list
 cd todo-list
 npm install
 npm run dev
