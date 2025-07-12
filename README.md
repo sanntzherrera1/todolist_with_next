@@ -34,3 +34,7 @@ npm run dev
 - Eventos y handlers
 - Renderizado condicional
 - TypeScript para type safety
+
+![Next.js](https://img.shields.io/badge/Next.js-15-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4-38B2AC)
